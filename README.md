@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-pareto-type1/tags). For example,
+
+```javascript
 import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@v0.1.0-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Pareto1, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@v0.1.0-esm/index.mjs';
+import { Pareto1, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@esm/index.mjs';
 ```
 
 #### pareto1
@@ -135,7 +140,7 @@ var y = dist.cdf( 3.5 );
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@v0.1.0-esm/index.mjs';
+import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@esm/index.mjs';
 
 console.log( objectKeys( pareto1 ) );
 
