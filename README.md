@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-pareto-type1/tags). For example,
+
+```javascript
 import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { Pareto1, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@v0.1.0-deno/mod.js';
+import { Pareto1, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@deno/mod.js';
 ```
 
 #### pareto1
@@ -130,7 +135,7 @@ var y = dist.cdf( 3.5 );
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@v0.1.0-deno/mod.js';
+import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@deno/mod.js';
 
 console.log( objectKeys( pareto1 ) );
 ```
