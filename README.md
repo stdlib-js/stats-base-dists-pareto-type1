@@ -35,20 +35,30 @@ limitations under the License.
 
 > Pareto (Type I) distribution.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/stats-base-dists-pareto-type1
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@esm/index.mjs';
-```
-
-You can also import the following named exports from the package:
-
-```javascript
-import { Pareto1, cdf, entropy, kurtosis, logcdf, logpdf, mean, median, mode, pdf, quantile, skewness, stdev, variance } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@esm/index.mjs';
+var pareto1 = require( '@stdlib/stats-base-dists-pareto-type1' );
 ```
 
 #### pareto1
@@ -108,7 +118,7 @@ The namespace contains a constructor function for creating a [Pareto (Type I)][p
 <!-- </toc> -->
 
 ```javascript
-var Pareto1 = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1' ).Pareto1;
+var Pareto1 = require( '@stdlib/stats-base-dists-pareto-type1' ).Pareto1;
 
 var dist = new Pareto1( 2.0, 4.0 );
 
@@ -128,20 +138,11 @@ var y = dist.cdf( 3.5 );
 
 <!-- eslint no-undef: "error" -->
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<script type="module">
-
-import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import pareto1 from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-pareto-type1@esm/index.mjs';
+```javascript
+var objectKeys = require( '@stdlib/utils-keys' );
+var pareto1 = require( '@stdlib/stats-base-dists-pareto-type1' );
 
 console.log( objectKeys( pareto1 ) );
-
-</script>
-</body>
-</html>
 ```
 
 </section>
@@ -165,7 +166,7 @@ console.log( objectKeys( pareto1 ) );
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -229,33 +230,33 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 <!-- <toc-links> -->
 
-[@stdlib/stats/base/dists/pareto-type1/ctor]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-ctor/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/ctor]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-ctor
 
-[@stdlib/stats/base/dists/pareto-type1/entropy]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-entropy/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/entropy]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-entropy
 
-[@stdlib/stats/base/dists/pareto-type1/kurtosis]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-kurtosis/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/kurtosis]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-kurtosis
 
-[@stdlib/stats/base/dists/pareto-type1/mean]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-mean/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/mean]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-mean
 
-[@stdlib/stats/base/dists/pareto-type1/median]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-median/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/median]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-median
 
-[@stdlib/stats/base/dists/pareto-type1/mode]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-mode/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/mode]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-mode
 
-[@stdlib/stats/base/dists/pareto-type1/skewness]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-skewness/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/skewness]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-skewness
 
-[@stdlib/stats/base/dists/pareto-type1/stdev]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-stdev/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/stdev]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-stdev
 
-[@stdlib/stats/base/dists/pareto-type1/variance]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-variance/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/variance]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-variance
 
-[@stdlib/stats/base/dists/pareto-type1/cdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-cdf/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/cdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-cdf
 
-[@stdlib/stats/base/dists/pareto-type1/logcdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-logcdf/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/logcdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-logcdf
 
-[@stdlib/stats/base/dists/pareto-type1/logpdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-logpdf/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/logpdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-logpdf
 
-[@stdlib/stats/base/dists/pareto-type1/pdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-pdf/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/pdf]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-pdf
 
-[@stdlib/stats/base/dists/pareto-type1/quantile]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-quantile/tree/esm
+[@stdlib/stats/base/dists/pareto-type1/quantile]: https://github.com/stdlib-js/stats-base-dists-pareto-type1-quantile
 
 <!-- </toc-links> -->
 
