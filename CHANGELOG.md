@@ -4,11 +4,275 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-02-24)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="stats-base-dists-pareto-type1-cdf-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/cdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-ctor-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/ctor)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-entropy-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/entropy)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-kurtosis-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/kurtosis)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-logcdf-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/logcdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-logpdf-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/logpdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-mean-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/mean)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-median-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/median)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-mode-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/mode)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-pdf-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/pdf)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-quantile-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/quantile)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="stats-base-dists-pareto-type1-skewness-unreleased">
 
@@ -30,9 +294,9 @@
 
 ##### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3865](https://github.com/stdlib-js/stdlib/issues/3865)
+[#3865](https://github.com/stdlib-js/stdlib/issues/3865), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
 
 </section>
 
@@ -64,9 +328,33 @@ This release closes the following issue:
 
 ##### Closed Issues
 
+A total of 2 issues were closed in this release:
+
+[#3866](https://github.com/stdlib-js/stdlib/issues/3866), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="stats-base-dists-pareto-type1-variance-unreleased">
+
+#### [@stdlib/stats/base/dists/pareto-type1/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/variance)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
 This release closes the following issue:
 
-[#3866](https://github.com/stdlib-js/stdlib/issues/3866)
+[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
 
 </section>
 
@@ -86,9 +374,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 2 issues were closed in this release:
+A total of 3 issues were closed in this release:
 
-[#3865](https://github.com/stdlib-js/stdlib/issues/3865), [#3866](https://github.com/stdlib-js/stdlib/issues/3866)
+[#3865](https://github.com/stdlib-js/stdlib/issues/3865), [#3866](https://github.com/stdlib-js/stdlib/issues/3866), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
 
 </section>
 
@@ -98,9 +386,11 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   GK Bishnoi
 -   Gururaj Gurram
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
@@ -113,6 +403,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
+-   [`4d79bde`](https://github.com/stdlib-js/stdlib/commit/4d79bde011701144a125ba35d58ed42f7ecc5961) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1` [(#5260)](https://github.com/stdlib-js/stdlib/pull/5260) _(by GK Bishnoi)_
+-   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
+-   [`1d5aa47`](https://github.com/stdlib-js/stdlib/commit/1d5aa47204c258b674d3db4aec92fbd2475e5ea7) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`318f280`](https://github.com/stdlib-js/stdlib/commit/318f28057bf00d910a656c4f315b8de17f89d3b5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`8bf8285`](https://github.com/stdlib-js/stdlib/commit/8bf8285aba0ecbd00ae145c4c5c098cd28135814) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`5ebf34e`](https://github.com/stdlib-js/stdlib/commit/5ebf34e758b2a328d2f4d9fa3500cb0233c687cf) - **feat:** add C implementation for `stats/dists/pareto-type1/stdev` [(#3925)](https://github.com/stdlib-js/stdlib/pull/3925) _(by Gururaj Gurram, Philipp Burckhardt)_
