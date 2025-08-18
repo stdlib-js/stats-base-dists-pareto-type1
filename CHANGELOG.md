@@ -4,286 +4,23 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
-
-<section class="packages">
-
-### Packages
-
-<section class="package" id="stats-base-dists-pareto-type1-cdf-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/cdf)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-ctor-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/ctor)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-entropy-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/entropy)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-kurtosis-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/kurtosis)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-logcdf-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/logcdf)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-logpdf-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/logpdf)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-mean-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/mean)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-median-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/median)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-mode-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/mode)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-pdf-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/pdf)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-quantile-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/quantile)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-skewness-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/skewness)
-
-<details>
+## Unreleased (2025-08-18)
 
 <section class="features">
 
-##### Features
+### Features
 
+-   [`b02e481`](https://github.com/stdlib-js/stdlib/commit/b02e481d876054cc7ea2845e45d1655931a82a0b) - add C implementation for `@stdlib/stats-base/dists/pareto-type1/quantile` [(#4308)](https://github.com/stdlib-js/stdlib/pull/4308)
+-   [`e711bd7`](https://github.com/stdlib-js/stdlib/commit/e711bd7d9e72c365915dfbe92ac50394890a2da4) - add C implementation for `stats/base/dists/pareto-type1/mean` [(#4035)](https://github.com/stdlib-js/stdlib/pull/4035)
+-   [`21768a1`](https://github.com/stdlib-js/stdlib/commit/21768a127aa997bdb118af0a5986bc581690d52a) - add C implementation for `stats/base/dists/pareto-type1/pdf` [(#4452)](https://github.com/stdlib-js/stdlib/pull/4452)
+-   [`a02e418`](https://github.com/stdlib-js/stdlib/commit/a02e418da0425917d5caa699392759993351ade3) - add C implementation for `stats/base/dists/pareto-type1/mode` [(#3932)](https://github.com/stdlib-js/stdlib/pull/3932)
+-   [`ac4fe47`](https://github.com/stdlib-js/stdlib/commit/ac4fe47f88e13e3009a2c0e9cc11e0cf8faf88c1) - add C implementation for `@stdlib/stats-base/dists/pareto-type1/kurtosis` [(#3972)](https://github.com/stdlib-js/stdlib/pull/3972)
+-   [`5620646`](https://github.com/stdlib-js/stdlib/commit/562064648ebf43d713eb31c8f6c3bb27f4b3a322) - add C implementation for `stats/base/dists/pareto-type1/cdf` [(#4257)](https://github.com/stdlib-js/stdlib/pull/4257)
+-   [`a4ded63`](https://github.com/stdlib-js/stdlib/commit/a4ded6361583d7cbd918d0545138f96be5c09596) - add C implementation for `stats/base/dists/pareto-type1/entropy` [(#4013)](https://github.com/stdlib-js/stdlib/pull/4013)
+-   [`3916b07`](https://github.com/stdlib-js/stdlib/commit/3916b07f5f5d58f21bbcdbb90465a8a65f59a97a) - add C implementation for `@stdlib/stats-base/dists/pareto-type1/logpdf` [(#4313)](https://github.com/stdlib-js/stdlib/pull/4313)
+-   [`41688ca`](https://github.com/stdlib-js/stdlib/commit/41688caea773a70cd7dc4ad8b4ff4594651be8d4) - add C implementation for `@stdlib/stats-base/dists/pareto-type1/logcdf` [(#4311)](https://github.com/stdlib-js/stdlib/pull/4311)
+-   [`1c6ac27`](https://github.com/stdlib-js/stdlib/commit/1c6ac27cb4577739287b86ca6f1110d7e0ed25af) - add C implementation for `stats/base/dists/pareto-type1/variance` [(#4017)](https://github.com/stdlib-js/stdlib/pull/4017)
+-   [`5ebf34e`](https://github.com/stdlib-js/stdlib/commit/5ebf34e758b2a328d2f4d9fa3500cb0233c687cf) - add C implementation for `stats/dists/pareto-type1/stdev` [(#3925)](https://github.com/stdlib-js/stdlib/pull/3925)
 -   [`a146971`](https://github.com/stdlib-js/stdlib/commit/a1469718890f5a007c6c7343757b621274dad0e0) - add C implementation for `stats/base/dists/pareto-type1/skewness` [(#3927)](https://github.com/stdlib-js/stdlib/pull/3927)
 
 </section>
@@ -292,110 +29,15 @@ This release closes the following issue:
 
 <section class="issues">
 
-##### Closed Issues
-
-A total of 2 issues were closed in this release:
-
-[#3865](https://github.com/stdlib-js/stdlib/issues/3865), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-stdev-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/stdev)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`5ebf34e`](https://github.com/stdlib-js/stdlib/commit/5ebf34e758b2a328d2f4d9fa3500cb0233c687cf) - add C implementation for `stats/dists/pareto-type1/stdev` [(#3925)](https://github.com/stdlib-js/stdlib/pull/3925)
-
-</section>
-
-<!-- /.features -->
-
-<section class="issues">
-
-##### Closed Issues
-
-A total of 2 issues were closed in this release:
-
-[#3866](https://github.com/stdlib-js/stdlib/issues/3866), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-variance-unreleased">
-
-#### [@stdlib/stats/base/dists/pareto-type1/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/variance)
-
-<details>
-
-<section class="issues">
-
-##### Closed Issues
-
-This release closes the following issue:
-
-[#4982](https://github.com/stdlib-js/stdlib/issues/4982)
-
-</section>
-
-<!-- /.issues -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
-
-<section class="issues">
-
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 14 issues were closed in this release:
 
-[#3865](https://github.com/stdlib-js/stdlib/issues/3865), [#3866](https://github.com/stdlib-js/stdlib/issues/3866), [#4982](https://github.com/stdlib-js/stdlib/issues/4982)
+[#3855](https://github.com/stdlib-js/stdlib/issues/3855), [#3856](https://github.com/stdlib-js/stdlib/issues/3856), [#3857](https://github.com/stdlib-js/stdlib/issues/3857), [#3858](https://github.com/stdlib-js/stdlib/issues/3858), [#3859](https://github.com/stdlib-js/stdlib/issues/3859), [#3860](https://github.com/stdlib-js/stdlib/issues/3860), [#3862](https://github.com/stdlib-js/stdlib/issues/3862), [#3863](https://github.com/stdlib-js/stdlib/issues/3863), [#3864](https://github.com/stdlib-js/stdlib/issues/3864), [#3865](https://github.com/stdlib-js/stdlib/issues/3865), [#3866](https://github.com/stdlib-js/stdlib/issues/3866), [#3867](https://github.com/stdlib-js/stdlib/issues/3867), [#4982](https://github.com/stdlib-js/stdlib/issues/4982), [#7613](https://github.com/stdlib-js/stdlib/issues/7613)
 
 </section>
 
 <!-- /.issues -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 4 people contributed to this release. Thank you to the following contributors:
-
--   GK Bishnoi
--   Gururaj Gurram
--   Karan Anand
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -403,6 +45,29 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`582de14`](https://github.com/stdlib-js/stdlib/commit/582de14d2d72ac0705d8d5d5e837767594354a46) - **docs:** remove empty line [(#7902)](https://github.com/stdlib-js/stdlib/pull/7902) _(by stdlib-bot)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`6bfa600`](https://github.com/stdlib-js/stdlib/commit/6bfa6008723749f4d9ca862b3dacab1e8a1f9957) - **chore:** address commit comments for commit `e711bd7` [(#7633)](https://github.com/stdlib-js/stdlib/pull/7633) _(by Anmol Sah, stdlib-bot)_
+-   [`e213c1c`](https://github.com/stdlib-js/stdlib/commit/e213c1c16475f98510398204a1c3b8939081b2ac) - **docs:** add missing private annotation _(by Athan Reines)_
+-   [`b02e481`](https://github.com/stdlib-js/stdlib/commit/b02e481d876054cc7ea2845e45d1655931a82a0b) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/quantile` [(#4308)](https://github.com/stdlib-js/stdlib/pull/4308) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
+-   [`e711bd7`](https://github.com/stdlib-js/stdlib/commit/e711bd7d9e72c365915dfbe92ac50394890a2da4) - **feat:** add C implementation for `stats/base/dists/pareto-type1/mean` [(#4035)](https://github.com/stdlib-js/stdlib/pull/4035) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
+-   [`83af59d`](https://github.com/stdlib-js/stdlib/commit/83af59de17b7e0db3d95fb5959ec0f38cf63c88e) - **test:** increase needed tolerances for tests to pass _(by Philipp Burckhardt)_
+-   [`7e24b8b`](https://github.com/stdlib-js/stdlib/commit/7e24b8ba0fff87a56584bb1a2fa106eb88267596) - **test:** slightly increase tolerances for passing tests _(by Philipp Burckhardt)_
+-   [`21768a1`](https://github.com/stdlib-js/stdlib/commit/21768a127aa997bdb118af0a5986bc581690d52a) - **feat:** add C implementation for `stats/base/dists/pareto-type1/pdf` [(#4452)](https://github.com/stdlib-js/stdlib/pull/4452) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
+-   [`a02e418`](https://github.com/stdlib-js/stdlib/commit/a02e418da0425917d5caa699392759993351ade3) - **feat:** add C implementation for `stats/base/dists/pareto-type1/mode` [(#3932)](https://github.com/stdlib-js/stdlib/pull/3932) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
+-   [`ac4fe47`](https://github.com/stdlib-js/stdlib/commit/ac4fe47f88e13e3009a2c0e9cc11e0cf8faf88c1) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/kurtosis` [(#3972)](https://github.com/stdlib-js/stdlib/pull/3972) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
+-   [`5620646`](https://github.com/stdlib-js/stdlib/commit/562064648ebf43d713eb31c8f6c3bb27f4b3a322) - **feat:** add C implementation for `stats/base/dists/pareto-type1/cdf` [(#4257)](https://github.com/stdlib-js/stdlib/pull/4257) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
+-   [`a4ded63`](https://github.com/stdlib-js/stdlib/commit/a4ded6361583d7cbd918d0545138f96be5c09596) - **feat:** add C implementation for `stats/base/dists/pareto-type1/entropy` [(#4013)](https://github.com/stdlib-js/stdlib/pull/4013) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
+-   [`981457c`](https://github.com/stdlib-js/stdlib/commit/981457cd28f75549ae2ab8a67bcf78c38f8c64b1) - **docs:** update related packages sections [(#7396)](https://github.com/stdlib-js/stdlib/pull/7396) _(by stdlib-bot, Athan Reines)_
+-   [`3916b07`](https://github.com/stdlib-js/stdlib/commit/3916b07f5f5d58f21bbcdbb90465a8a65f59a97a) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/logpdf` [(#4313)](https://github.com/stdlib-js/stdlib/pull/4313) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
+-   [`41688ca`](https://github.com/stdlib-js/stdlib/commit/41688caea773a70cd7dc4ad8b4ff4594651be8d4) - **feat:** add C implementation for `@stdlib/stats-base/dists/pareto-type1/logcdf` [(#4311)](https://github.com/stdlib-js/stdlib/pull/4311) _(by Dhruv Arvind Singh, Philipp Burckhardt, stdlib-bot)_
+-   [`11d0e94`](https://github.com/stdlib-js/stdlib/commit/11d0e9428736a83a2e12f6e85620070bcdc28222) - **chore:** clean-up _(by Athan Reines)_
+-   [`1c6ac27`](https://github.com/stdlib-js/stdlib/commit/1c6ac27cb4577739287b86ca6f1110d7e0ed25af) - **feat:** add C implementation for `stats/base/dists/pareto-type1/variance` [(#4017)](https://github.com/stdlib-js/stdlib/pull/4017) _(by Gururaj Gurram, Philipp Burckhardt, stdlib-bot)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`f7988d3`](https://github.com/stdlib-js/stdlib/commit/f7988d3c02e0eff3bd9bd7523b5dc975bb98dc0e) - **bench:** fix `isnan` checks in `stats/base/dists` [(#5296)](https://github.com/stdlib-js/stdlib/pull/5296) _(by Karan Anand)_
 -   [`4d79bde`](https://github.com/stdlib-js/stdlib/commit/4d79bde011701144a125ba35d58ed42f7ecc5961) - **bench:** refactor random number generation in JS benchmarks for `stats/base/dists/pareto-type1` [(#5260)](https://github.com/stdlib-js/stdlib/pull/5260) _(by GK Bishnoi)_
 -   [`b9a2014`](https://github.com/stdlib-js/stdlib/commit/b9a2014b1181d30f86aa489ba90ad1f892ade8e8) - **docs:** clean-up of C docstrings _(by Philipp Burckhardt)_
@@ -419,6 +84,26 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 9 people contributed to this release. Thank you to the following contributors:
+
+-   Aadish Jain
+-   Anmol Sah
+-   Athan Reines
+-   Dhruv Arvind Singh
+-   GK Bishnoi
+-   Gururaj Gurram
+-   Karan Anand
+-   Philipp Burckhardt
+-   Shabareesh Shetty
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -426,26 +111,6 @@ A total of 4 people contributed to this release. Thank you to the following cont
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
-
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -461,6 +126,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
@@ -480,26 +157,6 @@ No changes reported for this release.
 
 ## 0.2.0 (2024-02-14)
 
-<section class="packages">
-
-### Packages
-
-</section>
-
-<!-- /.packages -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
-
 <section class="commits">
 
 ### Commits
@@ -515,6 +172,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <!-- /.commits -->
 
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
 </section>
 
 <!-- /.release -->
@@ -523,523 +192,15 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.1.0 (2023-09-24)
 
-<section class="packages">
-
-### Packages
-
-<section class="package" id="stats-base-dists-pareto-type1-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1)
-
-<details>
-
 <section class="features">
 
-##### Features
+### Features
 
 -   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-cdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/cdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/cdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-ctor-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/ctor](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/ctor)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-entropy-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/entropy](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/entropy)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-kurtosis-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/kurtosis](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/kurtosis)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-logcdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/logcdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/logcdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-logpdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/logpdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/logpdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-mean-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/mean](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/mean)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-median-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/median](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/median)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-mode-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/mode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/mode)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-pdf-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/pdf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/pdf)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-quantile-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/quantile](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/quantile)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-skewness-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/skewness](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/skewness)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-stdev-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/stdev](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/stdev)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-<section class="package" id="stats-base-dists-pareto-type1-variance-v0.1.0">
-
-#### [@stdlib/stats/base/dists/pareto-type1/variance](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/dists/pareto-type1/variance)
-
-<details>
-
-<section class="features">
-
-##### Features
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864) - update minimum TypeScript version
-
-</section>
-
-<!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`81ca3ab`](https://github.com/stdlib-js/stdlib/commit/81ca3ab33585150e98a402b3e6d57beb1ec36864): update minimum TypeScript version to 4.1
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
-</details>
-
-</section>
-
-<!-- /.package -->
-
-</section>
-
-<!-- /.packages -->
 
 <section class="breaking-changes">
 
@@ -1052,18 +213,6 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.breaking-changes -->
-
-<section class="contributors">
-
-### Contributors
-
-A total of 1 person contributed to this release. Thank you to this contributor:
-
--   Philipp Burckhardt
-
-</section>
-
-<!-- /.contributors -->
 
 <section class="commits">
 
@@ -1081,6 +230,18 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 </section>
 
 <!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 
