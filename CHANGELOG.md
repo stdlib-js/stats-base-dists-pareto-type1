@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-02)
+## 0.3.0 (2026-01-30)
 
 <section class="features">
 
@@ -45,6 +45,8 @@ A total of 14 issues were closed in this release:
 
 <details>
 
+-   [`92a0acc`](https://github.com/stdlib-js/stdlib/commit/92a0acc04033b0feb7113d04b6ade7ab1ebbc406) - **bench:** update random value generation [(#9802)](https://github.com/stdlib-js/stdlib/pull/9802) _(by Harsh Yadav)_
+-   [`ee22a7f`](https://github.com/stdlib-js/stdlib/commit/ee22a7f42d7a8733c2ae503a4085a942de386983) - **docs:** replace manual `for` loop in examples [(#9057)](https://github.com/stdlib-js/stdlib/pull/9057) _(by Harsh Yadav)_
 -   [`88fe77a`](https://github.com/stdlib-js/stdlib/commit/88fe77a2f059149b803f51d1a787894c7670798b) - **docs:** fix example code in namespace TypeScript declarations _(by Philipp Burckhardt)_
 -   [`47088cc`](https://github.com/stdlib-js/stdlib/commit/47088cc299d84289a904dd2e7d2cdf0aee9057aa) - **docs:** fix TSDoc comments example code and return annotation values _(by Philipp Burckhardt)_
 -   [`8635752`](https://github.com/stdlib-js/stdlib/commit/86357522033571bdb71ca96fff64c12f8fedb3c0) - **docs:** fix return values in TSDoc return annotation comments _(by Philipp Burckhardt)_
@@ -95,7 +97,7 @@ A total of 14 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
 -   Anmol Sah
@@ -103,6 +105,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 -   Dhruv Arvind Singh
 -   Gopi Kishan
 -   Gururaj Gurram
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Shabareesh Shetty
