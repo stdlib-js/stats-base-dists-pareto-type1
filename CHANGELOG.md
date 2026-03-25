@@ -2,6 +2,58 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-25)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#10662](https://github.com/stdlib-js/stdlib/issues/10662)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b08cf89`](https://github.com/stdlib-js/stdlib/commit/b08cf89e49280c72b1d79e2c2262784e01448dac) - **docs:** fix parameter type in comment of `pareto-type1/mean/lib/native.js` [(#10811)](https://github.com/stdlib-js/stdlib/pull/10811) _(by Siddhartha Mondal, Philipp Burckhardt)_
+-   [`0295f28`](https://github.com/stdlib-js/stdlib/commit/0295f28fdb538a0e6f022fa544c1ee78bf818809) - **chore:** address commit comments [(#10665)](https://github.com/stdlib-js/stdlib/pull/10665) _(by Partha Das)_
+-   [`3badc70`](https://github.com/stdlib-js/stdlib/commit/3badc707161e55feca4501c7d031171a7813eb39) - **bench:** refactor to use string interpolation in `stats/base/dists/pareto-type1` [(#10467)](https://github.com/stdlib-js/stdlib/pull/10467) _(by Vishal Gaikwad)_
+-   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 4 people contributed to this release. Thank you to the following contributors:
+
+-   Partha Das
+-   Philipp Burckhardt
+-   Siddhartha Mondal
+-   Vishal Gaikwad
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2026-02-08)
