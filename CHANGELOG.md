@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-25)
+## Unreleased (2026-05-01)
 
 <section class="issues">
 
@@ -24,6 +24,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`187e141`](https://github.com/stdlib-js/stdlib/commit/187e141098635f0f2edf0f6f1289e06473ae7fcd) - **chore:** add missing `npm` engine constraint to `stats/base/dists/*/ctor` [(#11686)](https://github.com/stdlib-js/stdlib/pull/11686) _(by Philipp Burckhardt)_
+-   [`9430db6`](https://github.com/stdlib-js/stdlib/commit/9430db645b6b1d36afb35e2fe3275d9ce4c384b8) - **refactor:** reuse variance implementation for stdev in `stats/base/dists` [(#11370)](https://github.com/stdlib-js/stdlib/pull/11370) _(by Om-A-osc, Athan Reines)_
 -   [`b08cf89`](https://github.com/stdlib-js/stdlib/commit/b08cf89e49280c72b1d79e2c2262784e01448dac) - **docs:** fix parameter type in comment of `pareto-type1/mean/lib/native.js` [(#10811)](https://github.com/stdlib-js/stdlib/pull/10811) _(by Siddhartha Mondal, Philipp Burckhardt)_
 -   [`0295f28`](https://github.com/stdlib-js/stdlib/commit/0295f28fdb538a0e6f022fa544c1ee78bf818809) - **chore:** address commit comments [(#10665)](https://github.com/stdlib-js/stdlib/pull/10665) _(by Partha Das)_
 -   [`3badc70`](https://github.com/stdlib-js/stdlib/commit/3badc707161e55feca4501c7d031171a7813eb39) - **bench:** refactor to use string interpolation in `stats/base/dists/pareto-type1` [(#10467)](https://github.com/stdlib-js/stdlib/pull/10467) _(by Vishal Gaikwad)_
@@ -39,8 +41,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Om-A-osc
 -   Partha Das
 -   Philipp Burckhardt
 -   Siddhartha Mondal
