@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-12)
+## Unreleased (2026-07-27)
 
 <section class="issues">
 
@@ -24,6 +24,10 @@ This release closes the following issue:
 
 <details>
 
+-   [`a3c9b30`](https://github.com/stdlib-js/stdlib/commit/a3c9b303010968027e67b5ebdd61340616246cd4) - **docs:** update descriptions [(#13370)](https://github.com/stdlib-js/stdlib/pull/13370) _(by Philipp Burckhardt, Athan Reines)_
+-   [`2671115`](https://github.com/stdlib-js/stdlib/commit/2671115d6032e59f3ada1b661085d8999f31a88c) - **refactor:** add explicit `isnan` guards [(#13343)](https://github.com/stdlib-js/stdlib/pull/13343) _(by Philipp Burckhardt)_
+-   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
+-   [`2b13bb1`](https://github.com/stdlib-js/stdlib/commit/2b13bb1a58ff9778770ef55dadc2b4b1ed675de0) - **refactor:** rename internal variable [(#13089)](https://github.com/stdlib-js/stdlib/pull/13089) _(by Philipp Burckhardt)_
 -   [`77195c3`](https://github.com/stdlib-js/stdlib/commit/77195c343d9d48e264a58f8ec213d0df53ca7317) - **docs:** update namespace table of contents [(#12835)](https://github.com/stdlib-js/stdlib/pull/12835) _(by stdlib-bot)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
 -   [`f59b324`](https://github.com/stdlib-js/stdlib/commit/f59b324c3c652580e17c4c4baae8168faab8af8c) - **docs:** fix typos and copy-paste errors in `stats` TypeScript declarations [(#12482)](https://github.com/stdlib-js/stdlib/pull/12482) _(by Philipp Burckhardt, Athan Reines)_
