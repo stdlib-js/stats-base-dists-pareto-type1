@@ -4,15 +4,25 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-27)
+## Unreleased (2026-09-15)
+
+<section class="features">
+
+### Features
+
+-   [`d525ccc`](https://github.com/stdlib-js/stdlib/commit/d525ccc39f1cf0d580a5525eb4f99aadf9d337d8) - add C implementation for `stats/base/dists/pareto-type1/median` [(#10079)](https://github.com/stdlib-js/stdlib/pull/10079)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#10662](https://github.com/stdlib-js/stdlib/issues/10662)
+[#3861](https://github.com/stdlib-js/stdlib/issues/3861), [#10662](https://github.com/stdlib-js/stdlib/issues/10662)
 
 </section>
 
@@ -24,6 +34,18 @@ This release closes the following issue:
 
 <details>
 
+-   [`b1240ca`](https://github.com/stdlib-js/stdlib/commit/b1240cae51ec6347a4822e69fd3ee153ac866c54) - **test:** migrate `stats/base/dists/pareto-type1/skewness` to ULP-based assertions [(#14955)](https://github.com/stdlib-js/stdlib/pull/14955) _(by Athan Reines)_
+-   [`0a3d32f`](https://github.com/stdlib-js/stdlib/commit/0a3d32f49ca8288decb7b0fcadd624d65a558e92) - **test:** migrate `stats/base/dists/pareto-type1/logcdf` to ULP-based assertions [(#14948)](https://github.com/stdlib-js/stdlib/pull/14948) _(by Athan Reines)_
+-   [`112d4c3`](https://github.com/stdlib-js/stdlib/commit/112d4c3418ae3d444d14467e82c1264b188348c0) - **test:** migrate `stats/base/dists/pareto-type1/pdf` to ULP-based assertions [(#14902)](https://github.com/stdlib-js/stdlib/pull/14902) _(by Athan Reines)_
+-   [`d525ccc`](https://github.com/stdlib-js/stdlib/commit/d525ccc39f1cf0d580a5525eb4f99aadf9d337d8) - **feat:** add C implementation for `stats/base/dists/pareto-type1/median` [(#10079)](https://github.com/stdlib-js/stdlib/pull/10079) _(by Siddhartha Mondal, stdlib-bot, Philipp Burckhardt)_
+-   [`a303009`](https://github.com/stdlib-js/stdlib/commit/a303009af3f7e31f3436bd70c686cc50918fac48) - **test:** migrate `stats/base/dists/pareto-type1/logpdf` to ULP-based assertions [(#14842)](https://github.com/stdlib-js/stdlib/pull/14842) _(by Philipp Burckhardt)_
+-   [`c273fb7`](https://github.com/stdlib-js/stdlib/commit/c273fb7f47745c415045678434c2baa37bb11685) - **test:** migrate `stats/base/dists/pareto-type1/mean` to ULP-based assertions [(#14763)](https://github.com/stdlib-js/stdlib/pull/14763) _(by Athan Reines)_
+-   [`fae5d5a`](https://github.com/stdlib-js/stdlib/commit/fae5d5a4886002a7c1f1e69ec0542099213f598d) - **test:** migrate `stats/base/dists/pareto-type1/mode` to ULP-based assertions [(#14600)](https://github.com/stdlib-js/stdlib/pull/14600) _(by Athan Reines)_
+-   [`2f6c686`](https://github.com/stdlib-js/stdlib/commit/2f6c686a77739f4d4b33c717457c7698f791e968) - **test:** migrate `stats/base/dists/pareto-type1/median` to ULP-based assertions [(#14155)](https://github.com/stdlib-js/stdlib/pull/14155) _(by Athan Reines)_
+-   [`ccc3c46`](https://github.com/stdlib-js/stdlib/commit/ccc3c46246b611479e4df9aa7d4ca0a523e28731) - **chore:** clean-up [(#14138)](https://github.com/stdlib-js/stdlib/pull/14138) _(by Philipp Burckhardt)_
+-   [`476cf1d`](https://github.com/stdlib-js/stdlib/commit/476cf1d820ed2fd05550d80e8d53b531690430f2) - **test:** migrate `stats/base/dists/pareto-type1/quantile` to ULP-based assertions [(#14129)](https://github.com/stdlib-js/stdlib/pull/14129) _(by Athan Reines)_
+-   [`d844b50`](https://github.com/stdlib-js/stdlib/commit/d844b501d6650be72ff85cff2e8d4ad5a917a6a0) - **test:** migrate `stats/base/dists/pareto-type1/kurtosis` to ULP-based assertions [(#14119)](https://github.com/stdlib-js/stdlib/pull/14119) _(by Athan Reines)_
+-   [`1d6be7a`](https://github.com/stdlib-js/stdlib/commit/1d6be7a287ef9b738f9a8dfdd9c3fe37b92399a0) - **test:** migrate `stats/base/dists/pareto-type1/cdf` to ULP-based assertions [(#13941)](https://github.com/stdlib-js/stdlib/pull/13941) _(by Philipp Burckhardt)_
 -   [`a3c9b30`](https://github.com/stdlib-js/stdlib/commit/a3c9b303010968027e67b5ebdd61340616246cd4) - **docs:** update descriptions [(#13370)](https://github.com/stdlib-js/stdlib/pull/13370) _(by Philipp Burckhardt, Athan Reines)_
 -   [`2671115`](https://github.com/stdlib-js/stdlib/commit/2671115d6032e59f3ada1b661085d8999f31a88c) - **refactor:** add explicit `isnan` guards [(#13343)](https://github.com/stdlib-js/stdlib/pull/13343) _(by Philipp Burckhardt)_
 -   [`ca49ceb`](https://github.com/stdlib-js/stdlib/commit/ca49ceb1e17979e0ecb77bc50dedd14b7515b46f) - **refactor:** rename internal variable [(#13167)](https://github.com/stdlib-js/stdlib/pull/13167) _(by Philipp Burckhardt)_
