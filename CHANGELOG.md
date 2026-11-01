@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-15)
+## Unreleased (2026-11-01)
 
 <section class="features">
 
@@ -34,6 +34,10 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`72cf0ed`](https://github.com/stdlib-js/stdlib/commit/72cf0edb51bfc20fe9b644fb64de03242f01966d) - **docs:** fix incorrect return annotations [(#15830)](https://github.com/stdlib-js/stdlib/pull/15830) _(by anee3)_
+-   [`acab9e2`](https://github.com/stdlib-js/stdlib/commit/acab9e2276eb872310b4f84a4f0c5ffad0792280) - **test:** migrate `stats/base/dists/pareto-type1/variance` to ULP-based assertions [(#15645)](https://github.com/stdlib-js/stdlib/pull/15645) _(by Devansh Patel)_
+-   [`455f0d5`](https://github.com/stdlib-js/stdlib/commit/455f0d52ac8f65c1ceb8113b5a995ee6f6888e22) - **test:** migrate `stats/base/dists/pareto-type1/stdev` to ULP-based assertions [(#15532)](https://github.com/stdlib-js/stdlib/pull/15532) _(by Devansh Patel)_
+-   [`9b06bff`](https://github.com/stdlib-js/stdlib/commit/9b06bff43daea1ec4cec24c5a9cfb5e02a2fdfe8) - **test:** migrate `stats/base/dists/pareto-type1/entropy` to ULP-based assertions [(#15195)](https://github.com/stdlib-js/stdlib/pull/15195) _(by Athan Reines)_
 -   [`b1240ca`](https://github.com/stdlib-js/stdlib/commit/b1240cae51ec6347a4822e69fd3ee153ac866c54) - **test:** migrate `stats/base/dists/pareto-type1/skewness` to ULP-based assertions [(#14955)](https://github.com/stdlib-js/stdlib/pull/14955) _(by Athan Reines)_
 -   [`0a3d32f`](https://github.com/stdlib-js/stdlib/commit/0a3d32f49ca8288decb7b0fcadd624d65a558e92) - **test:** migrate `stats/base/dists/pareto-type1/logcdf` to ULP-based assertions [(#14948)](https://github.com/stdlib-js/stdlib/pull/14948) _(by Athan Reines)_
 -   [`112d4c3`](https://github.com/stdlib-js/stdlib/commit/112d4c3418ae3d444d14467e82c1264b188348c0) - **test:** migrate `stats/base/dists/pareto-type1/pdf` to ULP-based assertions [(#14902)](https://github.com/stdlib-js/stdlib/pull/14902) _(by Athan Reines)_
@@ -74,14 +78,16 @@ A total of 2 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 8 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Devansh Patel
 -   Om-A-osc
 -   Partha Das
 -   Philipp Burckhardt
 -   Siddhartha Mondal
 -   Vishal Gaikwad
+-   anee3
 
 </section>
 
